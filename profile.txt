@@ -1,0 +1,5 @@
+Student Profile
+
+Name: Zainab Saeed
+Registration Number: 24-SE-68
+Department: Software Engineering
